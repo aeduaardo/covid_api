@@ -18,7 +18,7 @@ It presents the information cited for Brazil and all its states.
 It presents the information mentioned for all cases in the world and also presents the **BIGGEST CASES**, which brings the 20 (twenty) countries with the highest number of cases of the new coronavirus. If you want more countries, access the file [constants.py](constants.py) and change the variable **NUMBER_COUNTRIES**.  
 
 
-⚠ Note: **Percentage of infected population** is not official informationand the values ​​presented are the responsibility of the creators of the project. In the /national the ercentage of infected population was calculated from population estimates of Brazilian states for the year 2019. For the /world the percentage was obtained based on the world population, set at 7.79 billion, and the index for each country was calculated based on information collected from different sources. Bearing in mind that population data vary due to many factors Percentage of infected population is not an accurate data and it is only an estimate.
+⚠ Note: **Percentage of infected population** is not official informationand the values ​​presented are the responsibility of the creators of the project. In the /national the ercentage of infected population was calculated from population estimates of Brazilian states for the year 2019. For the /world the percentage was obtained based on the world population, set at 7.79 billion, and the index for each country was calculated based on information collected from different sources. Bearing in mind that population data vary due to many factors, the Percentage of infected population is not an accurate data and it is only an estimate.
 
 ## 🛰 Technologies
 * 🐍 [**Python 3.6**]() or later.
